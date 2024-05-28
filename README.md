@@ -1,6 +1,16 @@
 # news_app
 
-A new Flutter project.
+Flutter Newsapp with data fetched from Newsapi.org.
+you can find the Apk in releases.
+dependencis required-
+  cupertino_icons: ^1.0.6
+  carousel_slider: ^4.2.1
+  smooth_page_indicator: ^1.1.0
+  http: ^1.2.1
+  cached_network_image: ^3.3.1
+  webview_flutter: ^4.8.0
+  provider: ^6.1.2
+  intl: ^0.19.0
 
 ## Getting Started
 
